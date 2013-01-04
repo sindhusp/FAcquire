@@ -1,0 +1,34 @@
+
+body {
+  font: 12px sans-serif;
+  height: 600px;
+  padding-top: 0px;
+  padding-left: 0px;
+  width: 1000px;
+}
+
+.arc path {
+  stroke: #333399;
+}
+#caption {
+position:absolute;
+font:Klavatika Vecta Bold;
+font-size: 15px;
+top: 400px;
+left: 800px;
+}
+#fblogo{
+position:absolute;
+top: 60px;
+left: 40px;
+font: Klavika Vecta Bold;
+font-size: 60px;
+color: #2E5CB8;
+}
+#trademark {
+position: absolute;
+top:133px;
+left:305px;
+font: Klavika Vecta Bold;
+color: #2E5CB8;
+}
